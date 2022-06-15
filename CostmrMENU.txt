@@ -1,0 +1,6 @@
+---------------------------------------------------------
+                 [ Costumer Interface ]
+---------------------------------------------------------
+a- create new account (sign up)
+b- already have an acount (sign in)
+c- exit to main menu
